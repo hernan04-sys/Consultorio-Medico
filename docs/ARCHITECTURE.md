@@ -28,20 +28,6 @@ Encargada del almacenamiento y recuperación de la información.
 
 ---
 
-## 📸 Galería Detallada de Módulos
-
-He separado la documentación de cada módulo principal para proporcionar un análisis más profundo de su funcionamiento:
-
-| Módulo | Descripción | Enlace |
-| :--- | :--- | :--- |
-| **Acceso (Login)** | Gestión de seguridad y autenticación. | [Ver Detalle 🔗](./LOGIN.md) |
-| **Panel Principal** | Tablero de control y navegación. | [Ver Detalle 🔗](./DASHBOARD.md) |
-| **Gestión Médicos** | Registro y administración de profesionales. | [Ver Detalle 🔗](./MEDICOS_REGISTRO.md) |
-| **Listado Pacientes** | Gestión y visualización de pacientes. | [Ver Detalle 🔗](./PACIENTES_LISTADO.md) |
-| **Registro Pacientes** | Alta de nuevos pacientes en el sistema. | [Ver Detalle 🔗](./PACIENTES_REGISTRO.md) |
-
----
-
 ## 🛠️ Tecnologías Utilizadas
 
 - **Lenguaje:** Java 17+
@@ -49,3 +35,8 @@ He separado la documentación de cada módulo principal para proporcionar un an�
 - **Servidor de Aplicaciones:** Apache Tomcat (recomendado)
 - **Persistencia:** JPA / Hibernate
 - **Frontend:** Bootstrap 4 (vía SB Admin 2)
+
+---
+
+> [!NOTE]
+> Para ver una guía visual detallada de los módulos del sistema (Screenshots), consulte el archivo **[README.md](../README.md)** en la raíz del proyecto.
