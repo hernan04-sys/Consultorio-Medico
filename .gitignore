@@ -1,0 +1,11 @@
+target/
+*.class
+*.war
+*.jar
+.nb-gradle/
+nb-configuration.xml
+.settings/
+.project
+.classpath
+.factorypath
+.DS_Store
